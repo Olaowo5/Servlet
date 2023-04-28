@@ -5,9 +5,11 @@ This assignment combines the use of the DAO pattern with servlet.
 The purpose of this project is to process a web client’s request to assign a course to a tutor.
 The project will create a form a page asking the user to enter login credentials for a database
 And inforamtion of a tutor, and their course.
-It will then naviagete to another page with results from the information gotten on the form
-
+It will then naviagete to another page with results from the information gotten on the form =================================================================================================================
+  
+  
 Project Description
+
 • You are given a tutoring database with the following tables with suitable data:
 o course
 o experience
